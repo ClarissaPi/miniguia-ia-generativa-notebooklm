@@ -36,7 +36,7 @@ Ao mesmo tempo em que essas tecnologias ampliam possibilidades de produtividade 
 
 Neste projeto, o NotebookLM foi utilizado como ambiente de pesquisa e aprendizagem baseado em fontes previamente selecionadas.
 
-Além dos materiais técnicos e acadêmicos, foi incluída uma fonte brasileira sobre o uso responsável da IA Generativa no serviço público, ampliando a análise para questões práticas de segurança, privacidade, responsabilidade e contexto institucional.
+Além dos materiais técnicos e acadêmicos, foi incluída uma fonte sobre o uso responsável da IA Generativa no serviço público, ampliando a análise para questões práticas de segurança, privacidade, responsabilidade e contexto institucional.
 
 ## Objetivo geral
 
@@ -71,9 +71,7 @@ Foram selecionadas fontes públicas e de instituições reconhecidas, priorizand
 
 **Tipo:** documento técnico / PDF
 
-**Link:**
-
-https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+**Link:** https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
 
 ### Justificativa
 
@@ -91,9 +89,7 @@ O material contribui principalmente para os tópicos de segurança, confiabilida
 
 **Tipo:** relatório / PDF
 
-**Link:**
-
-https://hai.stanford.edu/ai-index
+**Link:** https://hai.stanford.edu/ai-index
 
 ### Justificativa
 
@@ -111,9 +107,7 @@ O AI Index apresenta informações relacionadas à evolução técnica da IA, in
 
 **Tipo:** material educacional
 
-**Link:**
-
-https://cloud.google.com/discover/what-is-prompt-engineering
+**Link:** https://cloud.google.com/discover/what-is-prompt-engineering
 
 ### Justificativa
 
@@ -131,9 +125,7 @@ Ela contribui para compreender como instruções podem ser estruturadas, testada
 
 **Tipo:** documentação técnica
 
-**Link:**
-
-https://developers.google.com/machine-learning/glossary/generative
+**Link:** https://developers.google.com/machine-learning/glossary/generative
 
 ### Justificativa
 
@@ -147,9 +139,7 @@ Foi utilizada como fonte complementar para conceitos técnicos relacionados à I
 
 **Tipo:** artigo acadêmico
 
-**Link:**
-
-https://arxiv.org/abs/1706.03762
+**Link:** https://arxiv.org/abs/1706.03762
 
 ### Justificativa
 
