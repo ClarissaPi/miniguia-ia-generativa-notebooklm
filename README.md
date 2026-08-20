@@ -1,6 +1,6 @@
 # Miniguia de Inteligência Artificial Generativa com NotebookLM
 
-> Projeto desenvolvido para o **Desafio de Projeto da DIO**, utilizando o NotebookLM como ferramenta de aprendizagem ativa, pesquisa, organização do conhecimento e experimentação com Inteligência Artificial.
+> Projeto desenvolvido para o **desafio de projeto da plataforma DIO**, utilizando o NotebookLM como ferramenta de aprendizagem ativa, pesquisa, organização do conhecimento e experimentação com Inteligência Artificial.
 
 ---
 
