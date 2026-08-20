@@ -1,15 +1,10 @@
-# 🤖 Miniguia de Inteligência Artificial Generativa com NotebookLM
+# Miniguia de Inteligência Artificial Generativa com NotebookLM
 
 > Projeto desenvolvido para o **Desafio de Projeto da DIO**, utilizando o NotebookLM como ferramenta de aprendizagem ativa, pesquisa, organização do conhecimento e experimentação com Inteligência Artificial.
 
-![Status](https://img.shields.io/badge/status-concluído-success)
-![Tema](https://img.shields.io/badge/tema-IA%20Generativa-blue)
-![Ferramenta](https://img.shields.io/badge/ferramenta-NotebookLM-orange)
-![GitHub](https://img.shields.io/badge/GitHub-projeto-black)
-
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte de um desafio prático da **DIO**, com o objetivo de explorar a Inteligência Artificial como ferramenta de aprendizagem ativa.
 
@@ -31,7 +26,7 @@ Mais do que obter respostas de uma IA, o objetivo foi desenvolver um processo de
 
 ---
 
-# 🎯 1. Contexto e objetivos
+# 1. Contexto e objetivos
 
 ## Contexto
 
@@ -64,7 +59,7 @@ Construir uma visão introdutória e estruturada sobre Inteligência Artificial 
 
 ---
 
-# 📚 2. Curadoria das fontes
+# 2. Curadoria das fontes
 
 Foram selecionadas fontes públicas e de instituições reconhecidas, priorizando materiais técnicos, acadêmicos, institucionais e educacionais.
 
@@ -172,6 +167,8 @@ A publicação apresenta uma arquitetura baseada em mecanismos de atenção.
 
 **Contexto:** uso responsável de IA Generativa no serviço público brasileiro
 
+**Link:** https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa
+
 ### Justificativa
 
 Esta fonte foi adicionada para trazer ao projeto uma perspectiva prática e contextualizada sobre o uso responsável da IA no Brasil.
@@ -184,7 +181,7 @@ A fonte foi especialmente importante para ampliar a discussão sobre o uso de IA
 
 ---
 
-# 🧠 3. Uso do NotebookLM
+# 3. Uso do NotebookLM
 
 As fontes foram organizadas em um notebook temático no NotebookLM.
 
@@ -217,7 +214,7 @@ A IA foi tratada como **ferramenta de apoio ao estudo**, e não como substituta 
 
 ---
 
-# 🧪 4. Engenharia de prompts
+# 4. Engenharia de prompts
 
 Uma das principais etapas do projeto foi experimentar diferentes formas de formular perguntas.
 
@@ -242,7 +239,6 @@ A pergunta é muito ampla e não define:
 - nível de conhecimento;
 - profundidade;
 - estrutura;
-- fontes que devem ser utilizadas;
 - exemplos desejados.
 
 ### Aprendizado
@@ -251,7 +247,7 @@ Um prompt muito aberto pode produzir uma resposta correta, porém genérica.
 
 ---
 
-# 🔎 Teste 2 — Definição com contexto
+# Teste 2 — Definição com contexto
 
 ### Prompt
 
@@ -271,11 +267,11 @@ Quanto mais claro o objetivo da pergunta, maior a possibilidade de obter uma res
 
 ---
 
-# 📊 Teste 3 — Comparação estruturada
+# Teste 3 — Comparação estruturada
 
 ### Prompt
 
-> Com base exclusivamente nas fontes carregadas, compare Inteligência Artificial, Machine Learning, Deep Learning e Inteligência Artificial Generativa. Organize a resposta em uma tabela contendo: definição, objetivo, exemplos de aplicação e relação entre os conceitos. Ao final, explique de forma simples como esses conceitos se relacionam.
+> Com base nas fontes carregadas, compare Inteligência Artificial, Machine Learning, Deep Learning e Inteligência Artificial Generativa. Organize a resposta em uma tabela contendo: definição, objetivo, exemplos de aplicação e relação entre os conceitos. Ao final, explique de forma simples como esses conceitos se relacionam.
 
 ### Objetivo
 
@@ -287,11 +283,11 @@ Definir explicitamente o formato da resposta ajuda a organizar informações e f
 
 ---
 
-# 🧩 Teste 4 — Aprofundamento técnico
+# Teste 4 — Aprofundamento técnico
 
 ### Prompt
 
-> Explique a importância da arquitetura Transformer para o desenvolvimento dos modernos modelos de linguagem. Comece com uma explicação para iniciantes e depois apresente uma explicação de nível intermediário. Utilize somente as fontes disponíveis e indique quais fontes sustentam cada parte da explicação.
+> Explique a importância da arquitetura Transformer para o desenvolvimento dos modernos modelos de linguagem. Comece com uma explicação para iniciantes e depois apresente uma explicação de nível intermediário. Utilize as fontes disponíveis e indique quais fontes sustentam cada parte da explicação.
 
 ### Objetivo
 
@@ -299,11 +295,11 @@ Observar como o nível de profundidade pode ser controlado pelo próprio prompt.
 
 ---
 
-# 🛡️ Teste 5 — Uso responsável
+# Teste 5 — Uso responsável
 
 ### Prompt
 
-> Com base exclusivamente nas fontes disponíveis no notebook, analise a seguinte situação: um servidor público deseja utilizar uma ferramenta de IA Generativa para elaborar um documento institucional. Identifique quais informações poderiam ser utilizadas no prompt, quais informações deveriam ser removidas ou anonimizadas e quais etapas de revisão humana seriam necessárias antes da utilização do conteúdo. Considere aspectos de proteção de dados, segurança, confiabilidade e responsabilidade.
+> Com base nas fontes disponíveis no notebook, analise a seguinte situação: um servidor público deseja utilizar uma ferramenta de IA Generativa para elaborar um documento institucional. Identifique quais informações poderiam ser utilizadas no prompt, quais informações deveriam ser removidas ou anonimizadas e quais etapas de revisão humana seriam necessárias antes da utilização do conteúdo. Considere aspectos de proteção de dados, segurança, confiabilidade e responsabilidade.
 
 ### Objetivo
 
@@ -315,7 +311,7 @@ O prompt pode ser utilizado não apenas para solicitar conteúdo, mas também pa
 
 ---
 
-# ⚠️ 5. As “cicatrizes” do processo
+# 5. As “cicatrizes” do processo
 
 A documentação das dificuldades encontradas é uma parte importante deste projeto.
 
@@ -417,7 +413,7 @@ Também significa aprender **quais informações podem ser fornecidas à IA e co
 
 ---
 
-# 🛡️ 6. Uso responsável de IA
+# 6. Uso responsável de IA
 
 A fonte brasileira adicionada ao projeto apresenta três perguntas fundamentais:
 
@@ -435,7 +431,7 @@ A IA deve servir como apoio e não substituir o julgamento humano, especialmente
 
 ---
 
-# 🔐 7. Proteção de dados
+# 7. Proteção de dados
 
 Um dos principais aprendizados foi compreender que a segurança começa antes mesmo da geração da resposta.
 
@@ -453,7 +449,7 @@ Se não precisar, não inclua.
 
 ---
 
-# 👤 8. Revisão humana
+# 8. Revisão humana
 
 A resposta da IA deve ser considerada um apoio.
 
@@ -467,7 +463,7 @@ Isso leva a um princípio central deste projeto:
 
 ---
 
-# ⚠️ 9. Principais riscos identificados
+# 9. Principais riscos identificados
 
 ## Vazamento de dados
 
@@ -503,7 +499,7 @@ Sistemas de IA podem interpretar incorretamente elementos do contexto brasileiro
 
 ---
 
-# 📖 10. Miniguia de estudo
+# 10. Miniguia de estudo
 
 ## 10.1 O que é Inteligência Artificial?
 
@@ -666,7 +662,7 @@ O uso responsável de IA envolve aspectos como:
 
 ---
 
-# 📚 11. Glossário
+# 11. Glossário
 
 | Conceito | Definição |
 |---|---|
@@ -692,11 +688,11 @@ O uso responsável de IA envolve aspectos como:
 
 ---
 
-# 🔄 12. Prompts reutilizáveis
+# 12. Prompts reutilizáveis
 
 ## Prompt 1 — Resumo
 
-> Com base exclusivamente nas fontes disponíveis, faça um resumo estruturado sobre **[TEMA]**. Organize em definição, conceitos fundamentais, aplicações, benefícios, limitações e pontos que merecem atenção. Utilize linguagem adequada para um estudante iniciante.
+> Com base nas fontes disponíveis, faça um resumo estruturado sobre **[TEMA]**. Organize em definição, conceitos fundamentais, aplicações, benefícios, limitações e pontos que merecem atenção. Utilize linguagem adequada para um estudante iniciante.
 
 ---
 
@@ -724,49 +720,43 @@ O uso responsável de IA envolve aspectos como:
 
 ---
 
-## Prompt 6 — Flashcards
-
-> Crie 15 flashcards sobre **[TEMA]**. No verso de cada cartão, apresente uma explicação curta e objetiva. Priorize conceitos fundamentais e evite informações que não estejam apoiadas nas fontes disponíveis.
-
----
-
-## Prompt 7 — Aprendizagem ativa
+## Prompt 6 — Aprendizagem ativa
 
 > Não me dê a resposta imediatamente. Faça uma pergunta sobre **[TEMA]**, aguarde minha tentativa de resposta e depois forneça feedback. Explique o que acertei, o que errei e qual conceito devo revisar.
 
 ---
 
-## Prompt 8 — Verificação de confiabilidade
+## Prompt 7 — Verificação de confiabilidade
 
 > Analise a afirmação abaixo: **[AFIRMAÇÃO]**. Verifique se ela é sustentada pelas fontes disponíveis. Classifique-a como “sustentada”, “parcialmente sustentada”, “não sustentada” ou “inconclusiva”. Explique o motivo e indique a fonte utilizada.
 
 ---
 
-## Prompt 9 — Revisão final
+## Prompt 8 — Revisão final
 
 > Faça uma revisão completa do meu conhecimento sobre **[TEMA]**. Primeiro, apresente os 10 conceitos que eu obrigatoriamente deveria dominar. Depois, faça cinco perguntas para testar minha compreensão. Ao final, indique quais assuntos devo revisar novamente com base nos meus erros.
 
 ---
 
-## Prompt 10 — Avaliação de segurança
+## Prompt 9 — Avaliação de segurança
 
 > Antes de responder à minha solicitação, analise se as informações fornecidas podem conter dados pessoais, sensíveis, sigilosos ou informações internas. Caso exista algum risco, identifique o tipo de informação que deveria ser removida, anonimizada ou substituída por um exemplo fictício. Não reproduza os dados potencialmente sensíveis na resposta.
 
 ---
 
-## Prompt 11 — Revisão humana
+## Prompt 10 — Revisão humana
 
 > Analise o conteúdo abaixo e identifique quais informações precisam ser verificadas por um profissional antes de serem utilizadas. Classifique os pontos em: factual, técnico, jurídico, administrativo ou opinativo. Não considere a resposta da IA como fonte definitiva.
 
 ---
 
-## Prompt 12 — Análise de risco
+## Prompt 11 — Análise de risco
 
 > Analise esta tarefa de acordo com quatro dimensões: proteção de dados, confiabilidade das informações, riscos jurídicos e necessidade de julgamento humano. Para cada dimensão, indique possíveis riscos e medidas de prevenção. Ao final, diga se a IA deve ser utilizada apenas como apoio ou se a tarefa deveria ser realizada sem IA.
 
 ---
 
-# 🧠 13. Principais aprendizados
+# 13. Principais aprendizados
 
 ## 1. A qualidade da pergunta influencia o resultado
 
@@ -820,7 +810,7 @@ Mesmo com ferramentas avançadas, é necessário questionar:
 
 ---
 
-# 🎓 14. Conclusão
+# 14. Conclusão
 
 O uso do NotebookLM neste projeto mostrou que ferramentas de Inteligência Artificial podem ser utilizadas não apenas para obter respostas, mas também para estruturar um processo de aprendizagem.
 
@@ -858,7 +848,7 @@ A IA pode acelerar processos de aprendizagem e produção, mas seu uso exige par
 
 ---
 
-# 🚀 15. Próximos passos
+# 15. Próximos passos
 
 Como continuidade deste projeto, os próximos estudos planejados são:
 
@@ -874,24 +864,7 @@ Como continuidade deste projeto, os próximos estudos planejados são:
 
 ---
 
-# 📂 16. Estrutura do repositório
-
-```text
-miniguia-ia-generativa-notebooklm/
-│
-├── README.md
-│
-├── fontes/
-│   ├── README.md
-│   └── infograficos_defeso.pdf
-│
-└── prompts/
-    └── README.md
-```
-
----
-
-# 🔗 17. Referências
+# 🔗 16. Referências
 
 1. **NIST** — Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile  
    https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
@@ -910,11 +883,11 @@ miniguia-ia-generativa-notebooklm/
 
 6. **Guia Prático para o Uso Responsável da Inteligência Artificial (IA) Generativa no Dia a Dia do Serviço Público**  
    Arquivo utilizado no projeto: `infograficos_defeso.pdf`  
-   Fonte disponibilizada no projeto para estudo e consulta.
+   https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa
 
 ---
 
-# 🏆 Resultado
+# Resultado
 
 Este repositório documenta não apenas o conteúdo estudado, mas também o **processo de aprendizagem com Inteligência Artificial**, incluindo:
 
